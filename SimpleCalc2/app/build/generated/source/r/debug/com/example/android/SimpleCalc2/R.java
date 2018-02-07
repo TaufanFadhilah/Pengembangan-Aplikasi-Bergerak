@@ -2384,7 +2384,7 @@ public final class R {
      */
     public static final int ActionBarLayout_android_layout_gravity=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#background}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2396,7 +2396,7 @@ public final class R {
      */
     public static final int ActionBar_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2411,7 +2411,7 @@ public final class R {
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#backgroundStacked}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#backgroundStacked}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2426,7 +2426,7 @@ public final class R {
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2439,7 +2439,7 @@ public final class R {
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2452,7 +2452,7 @@ public final class R {
      */
     public static final int ActionBar_contentInsetLeft=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2465,7 +2465,7 @@ public final class R {
      */
     public static final int ActionBar_contentInsetRight=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2478,7 +2478,7 @@ public final class R {
      */
     public static final int ActionBar_contentInsetStart=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#customNavigationLayout}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#customNavigationLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2490,7 +2490,7 @@ public final class R {
      */
     public static final int ActionBar_customNavigationLayout=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#displayOptions}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#displayOptions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -2512,7 +2512,7 @@ public final class R {
      */
     public static final int ActionBar_displayOptions=8;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#divider}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2524,7 +2524,7 @@ public final class R {
      */
     public static final int ActionBar_divider=9;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#elevation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2537,7 +2537,7 @@ public final class R {
      */
     public static final int ActionBar_elevation=10;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#height}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2550,7 +2550,7 @@ public final class R {
      */
     public static final int ActionBar_height=11;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#hideOnContentScroll}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#hideOnContentScroll}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -2560,7 +2560,7 @@ public final class R {
      */
     public static final int ActionBar_hideOnContentScroll=12;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2572,7 +2572,7 @@ public final class R {
      */
     public static final int ActionBar_homeAsUpIndicator=13;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#homeLayout}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#homeLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2584,7 +2584,7 @@ public final class R {
      */
     public static final int ActionBar_homeLayout=14;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#icon}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#icon}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2596,7 +2596,7 @@ public final class R {
      */
     public static final int ActionBar_icon=15;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#indeterminateProgressStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#indeterminateProgressStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2608,7 +2608,7 @@ public final class R {
      */
     public static final int ActionBar_indeterminateProgressStyle=16;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#itemPadding}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#itemPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2621,7 +2621,7 @@ public final class R {
      */
     public static final int ActionBar_itemPadding=17;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#logo}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2633,7 +2633,7 @@ public final class R {
      */
     public static final int ActionBar_logo=18;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#navigationMode}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#navigationMode}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -2651,7 +2651,7 @@ public final class R {
      */
     public static final int ActionBar_navigationMode=19;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#popupTheme}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2663,7 +2663,7 @@ public final class R {
      */
     public static final int ActionBar_popupTheme=20;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#progressBarPadding}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#progressBarPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2676,7 +2676,7 @@ public final class R {
      */
     public static final int ActionBar_progressBarPadding=21;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#progressBarStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#progressBarStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2688,7 +2688,7 @@ public final class R {
      */
     public static final int ActionBar_progressBarStyle=22;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#subtitle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -2698,7 +2698,7 @@ public final class R {
      */
     public static final int ActionBar_subtitle=23;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2710,7 +2710,7 @@ public final class R {
      */
     public static final int ActionBar_subtitleTextStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#title}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -2720,7 +2720,7 @@ public final class R {
      */
     public static final int ActionBar_title=25;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2786,7 +2786,7 @@ public final class R {
         0x7f0200a5, 0x7f0200bf
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#background}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2798,7 +2798,7 @@ public final class R {
      */
     public static final int ActionMode_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2813,7 +2813,7 @@ public final class R {
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#closeItemLayout}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#closeItemLayout}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2825,7 +2825,7 @@ public final class R {
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#height}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2838,7 +2838,7 @@ public final class R {
      */
     public static final int ActionMode_height=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2850,7 +2850,7 @@ public final class R {
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2878,7 +2878,7 @@ public final class R {
         0x7f020061, 0x7f02006c
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#expandActivityOverflowButtonDrawable}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#expandActivityOverflowButtonDrawable}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2890,7 +2890,7 @@ public final class R {
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#initialActivityCount}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#initialActivityCount}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -2937,7 +2937,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2949,7 +2949,7 @@ public final class R {
      */
     public static final int AlertDialog_buttonPanelSideLayout=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2961,7 +2961,7 @@ public final class R {
      */
     public static final int AlertDialog_listItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2973,7 +2973,7 @@ public final class R {
      */
     public static final int AlertDialog_listLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2985,7 +2985,7 @@ public final class R {
      */
     public static final int AlertDialog_multiChoiceItemLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3025,7 +3025,7 @@ public final class R {
      */
     public static final int AppCompatTextView_android_textAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3053,7 +3053,7 @@ public final class R {
         0x7f020026
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#allowStacking}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#allowStacking}
      * attribute's value can be found in the {@link #ButtonBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -3093,7 +3093,7 @@ public final class R {
      */
     public static final int CompoundButton_android_button=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#buttonTint}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#buttonTint}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -3104,7 +3104,7 @@ public final class R {
      */
     public static final int CompoundButton_buttonTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#buttonTintMode}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#buttonTintMode}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -3153,7 +3153,7 @@ public final class R {
         0x7f020059, 0x7f020062, 0x7f02009c, 0x7f0200b5
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#arrowHeadLength}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#arrowHeadLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3166,7 +3166,7 @@ public final class R {
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#arrowShaftLength}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#arrowShaftLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3179,7 +3179,7 @@ public final class R {
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#barLength}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#barLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3192,7 +3192,7 @@ public final class R {
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#color}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#color}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -3203,7 +3203,7 @@ public final class R {
      */
     public static final int DrawerArrowToggle_color=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#drawableSize}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#drawableSize}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3216,7 +3216,7 @@ public final class R {
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#gapBetweenBars}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#gapBetweenBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3229,7 +3229,7 @@ public final class R {
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#spinBars}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#spinBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -3239,7 +3239,7 @@ public final class R {
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#thickness}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#thickness}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3462,7 +3462,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_android_weightSum=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#divider}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3474,7 +3474,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#dividerPadding}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#dividerPadding}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3487,7 +3487,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#measureWithLargestChild}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#measureWithLargestChild}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -3497,7 +3497,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#showDividers}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#showDividers}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -3711,7 +3711,7 @@ public final class R {
         0x7f020098
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionLayout}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionLayout}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3723,7 +3723,7 @@ public final class R {
      */
     public static final int MenuItem_actionLayout=13;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionProviderClass}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionProviderClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -3733,7 +3733,7 @@ public final class R {
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionViewClass}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionViewClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -3885,7 +3885,7 @@ public final class R {
      */
     public static final int MenuItem_android_visible=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#showAsAction}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#showAsAction}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -4021,7 +4021,7 @@ public final class R {
      */
     public static final int MenuView_android_windowAnimationStyle=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#preserveIconSpacing}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#preserveIconSpacing}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -4061,7 +4061,7 @@ public final class R {
         0x7f0200a0
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#state_above_anchor}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#state_above_anchor}
      * attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -4086,7 +4086,7 @@ public final class R {
      */
     public static final int PopupWindow_android_popupBackground=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#overlapAnchor}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#overlapAnchor}
      * attribute's value can be found in the {@link #PopupWindow} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -4247,7 +4247,7 @@ public final class R {
      */
     public static final int SearchView_android_maxWidth=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#closeIcon}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#closeIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4259,7 +4259,7 @@ public final class R {
      */
     public static final int SearchView_closeIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#commitIcon}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#commitIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4271,7 +4271,7 @@ public final class R {
      */
     public static final int SearchView_commitIcon=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#defaultQueryHint}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#defaultQueryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -4281,7 +4281,7 @@ public final class R {
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#goIcon}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#goIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4293,7 +4293,7 @@ public final class R {
      */
     public static final int SearchView_goIcon=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#iconifiedByDefault}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#iconifiedByDefault}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -4303,7 +4303,7 @@ public final class R {
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#layout}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#layout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4315,7 +4315,7 @@ public final class R {
      */
     public static final int SearchView_layout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#queryBackground}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#queryBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4327,7 +4327,7 @@ public final class R {
      */
     public static final int SearchView_queryBackground=10;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#queryHint}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#queryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -4337,7 +4337,7 @@ public final class R {
      */
     public static final int SearchView_queryHint=11;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#searchHintIcon}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#searchHintIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4349,7 +4349,7 @@ public final class R {
      */
     public static final int SearchView_searchHintIcon=12;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#searchIcon}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#searchIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4361,7 +4361,7 @@ public final class R {
      */
     public static final int SearchView_searchIcon=13;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#submitBackground}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#submitBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4373,7 +4373,7 @@ public final class R {
      */
     public static final int SearchView_submitBackground=14;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#suggestionRowLayout}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#suggestionRowLayout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4385,7 +4385,7 @@ public final class R {
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#voiceIcon}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#voiceIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4467,7 +4467,7 @@ public final class R {
      */
     public static final int Spinner_android_prompt=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4545,7 +4545,7 @@ public final class R {
      */
     public static final int SwitchCompat_android_thumb=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#showText}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#showText}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -4555,7 +4555,7 @@ public final class R {
      */
     public static final int SwitchCompat_showText=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#splitTrack}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#splitTrack}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -4565,7 +4565,7 @@ public final class R {
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#switchMinWidth}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#switchMinWidth}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4578,7 +4578,7 @@ public final class R {
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#switchPadding}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#switchPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4591,7 +4591,7 @@ public final class R {
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#switchTextAppearance}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#switchTextAppearance}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4603,7 +4603,7 @@ public final class R {
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#thumbTextPadding}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#thumbTextPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4616,7 +4616,7 @@ public final class R {
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#track}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#track}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4763,7 +4763,7 @@ public final class R {
      */
     public static final int TextAppearance_android_typeface=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5036,7 +5036,7 @@ public final class R {
         0x7f0200cc, 0x7f0200cd
       };
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionBarDivider}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionBarDivider}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5048,7 +5048,7 @@ public final class R {
      */
     public static final int Theme_actionBarDivider=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionBarItemBackground}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionBarItemBackground}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5060,7 +5060,7 @@ public final class R {
      */
     public static final int Theme_actionBarItemBackground=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionBarPopupTheme}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionBarPopupTheme}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5072,7 +5072,7 @@ public final class R {
      */
     public static final int Theme_actionBarPopupTheme=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionBarSize}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionBarSize}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5093,7 +5093,7 @@ public final class R {
      */
     public static final int Theme_actionBarSize=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionBarSplitStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionBarSplitStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5105,7 +5105,7 @@ public final class R {
      */
     public static final int Theme_actionBarSplitStyle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionBarStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionBarStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5117,7 +5117,7 @@ public final class R {
      */
     public static final int Theme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5129,7 +5129,7 @@ public final class R {
      */
     public static final int Theme_actionBarTabBarStyle=8;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionBarTabStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionBarTabStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5141,7 +5141,7 @@ public final class R {
      */
     public static final int Theme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5153,7 +5153,7 @@ public final class R {
      */
     public static final int Theme_actionBarTabTextStyle=10;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionBarTheme}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionBarTheme}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5165,7 +5165,7 @@ public final class R {
      */
     public static final int Theme_actionBarTheme=11;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionBarWidgetTheme}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionBarWidgetTheme}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5177,7 +5177,7 @@ public final class R {
      */
     public static final int Theme_actionBarWidgetTheme=12;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionButtonStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5189,7 +5189,7 @@ public final class R {
      */
     public static final int Theme_actionButtonStyle=13;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionDropDownStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionDropDownStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5201,7 +5201,7 @@ public final class R {
      */
     public static final int Theme_actionDropDownStyle=14;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionMenuTextAppearance}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionMenuTextAppearance}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5213,7 +5213,7 @@ public final class R {
      */
     public static final int Theme_actionMenuTextAppearance=15;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionMenuTextColor}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionMenuTextColor}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5228,7 +5228,7 @@ public final class R {
      */
     public static final int Theme_actionMenuTextColor=16;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionModeBackground}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionModeBackground}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5240,7 +5240,7 @@ public final class R {
      */
     public static final int Theme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5252,7 +5252,7 @@ public final class R {
      */
     public static final int Theme_actionModeCloseButtonStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionModeCloseDrawable}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionModeCloseDrawable}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5264,7 +5264,7 @@ public final class R {
      */
     public static final int Theme_actionModeCloseDrawable=19;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionModeCopyDrawable}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionModeCopyDrawable}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5276,7 +5276,7 @@ public final class R {
      */
     public static final int Theme_actionModeCopyDrawable=20;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionModeCutDrawable}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionModeCutDrawable}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5288,7 +5288,7 @@ public final class R {
      */
     public static final int Theme_actionModeCutDrawable=21;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionModeFindDrawable}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionModeFindDrawable}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5300,7 +5300,7 @@ public final class R {
      */
     public static final int Theme_actionModeFindDrawable=22;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionModePasteDrawable}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionModePasteDrawable}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5312,7 +5312,7 @@ public final class R {
      */
     public static final int Theme_actionModePasteDrawable=23;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionModePopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionModePopupWindowStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5324,7 +5324,7 @@ public final class R {
      */
     public static final int Theme_actionModePopupWindowStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionModeSelectAllDrawable}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionModeSelectAllDrawable}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5336,7 +5336,7 @@ public final class R {
      */
     public static final int Theme_actionModeSelectAllDrawable=25;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionModeShareDrawable}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionModeShareDrawable}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5348,7 +5348,7 @@ public final class R {
      */
     public static final int Theme_actionModeShareDrawable=26;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionModeSplitBackground}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionModeSplitBackground}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5360,7 +5360,7 @@ public final class R {
      */
     public static final int Theme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5372,7 +5372,7 @@ public final class R {
      */
     public static final int Theme_actionModeStyle=28;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionModeWebSearchDrawable}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionModeWebSearchDrawable}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5384,7 +5384,7 @@ public final class R {
      */
     public static final int Theme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5396,7 +5396,7 @@ public final class R {
      */
     public static final int Theme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5408,7 +5408,7 @@ public final class R {
      */
     public static final int Theme_actionOverflowMenuStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#activityChooserViewStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#activityChooserViewStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5420,7 +5420,7 @@ public final class R {
      */
     public static final int Theme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5432,7 +5432,7 @@ public final class R {
      */
     public static final int Theme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -5442,7 +5442,7 @@ public final class R {
      */
     public static final int Theme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5454,7 +5454,7 @@ public final class R {
      */
     public static final int Theme_alertDialogStyle=35;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#alertDialogTheme}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#alertDialogTheme}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5488,7 +5488,7 @@ public final class R {
      */
     public static final int Theme_android_windowIsFloating=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#autoCompleteTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#autoCompleteTextViewStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5500,7 +5500,7 @@ public final class R {
      */
     public static final int Theme_autoCompleteTextViewStyle=37;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#borderlessButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#borderlessButtonStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5512,7 +5512,7 @@ public final class R {
      */
     public static final int Theme_borderlessButtonStyle=38;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#buttonBarButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#buttonBarButtonStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5524,7 +5524,7 @@ public final class R {
      */
     public static final int Theme_buttonBarButtonStyle=39;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#buttonBarNegativeButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#buttonBarNegativeButtonStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5536,7 +5536,7 @@ public final class R {
      */
     public static final int Theme_buttonBarNegativeButtonStyle=40;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#buttonBarNeutralButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#buttonBarNeutralButtonStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5548,7 +5548,7 @@ public final class R {
      */
     public static final int Theme_buttonBarNeutralButtonStyle=41;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#buttonBarPositiveButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#buttonBarPositiveButtonStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5560,7 +5560,7 @@ public final class R {
      */
     public static final int Theme_buttonBarPositiveButtonStyle=42;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#buttonBarStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#buttonBarStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5572,7 +5572,7 @@ public final class R {
      */
     public static final int Theme_buttonBarStyle=43;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#buttonStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#buttonStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5584,7 +5584,7 @@ public final class R {
      */
     public static final int Theme_buttonStyle=44;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#buttonStyleSmall}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#buttonStyleSmall}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5596,7 +5596,7 @@ public final class R {
      */
     public static final int Theme_buttonStyleSmall=45;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#checkboxStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#checkboxStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5608,7 +5608,7 @@ public final class R {
      */
     public static final int Theme_checkboxStyle=46;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#checkedTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#checkedTextViewStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5620,7 +5620,7 @@ public final class R {
      */
     public static final int Theme_checkedTextViewStyle=47;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#colorAccent}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#colorAccent}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -5631,7 +5631,7 @@ public final class R {
      */
     public static final int Theme_colorAccent=48;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#colorButtonNormal}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#colorButtonNormal}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -5642,7 +5642,7 @@ public final class R {
      */
     public static final int Theme_colorButtonNormal=49;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#colorControlActivated}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#colorControlActivated}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -5653,7 +5653,7 @@ public final class R {
      */
     public static final int Theme_colorControlActivated=50;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#colorControlHighlight}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#colorControlHighlight}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -5664,7 +5664,7 @@ public final class R {
      */
     public static final int Theme_colorControlHighlight=51;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#colorControlNormal}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#colorControlNormal}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -5675,7 +5675,7 @@ public final class R {
      */
     public static final int Theme_colorControlNormal=52;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#colorPrimary}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#colorPrimary}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -5686,7 +5686,7 @@ public final class R {
      */
     public static final int Theme_colorPrimary=53;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#colorPrimaryDark}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#colorPrimaryDark}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -5697,7 +5697,7 @@ public final class R {
      */
     public static final int Theme_colorPrimaryDark=54;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#colorSwitchThumbNormal}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#colorSwitchThumbNormal}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -5708,7 +5708,7 @@ public final class R {
      */
     public static final int Theme_colorSwitchThumbNormal=55;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#controlBackground}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#controlBackground}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5720,7 +5720,7 @@ public final class R {
      */
     public static final int Theme_controlBackground=56;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#dialogPreferredPadding}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#dialogPreferredPadding}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5733,7 +5733,7 @@ public final class R {
      */
     public static final int Theme_dialogPreferredPadding=57;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#dialogTheme}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#dialogTheme}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5745,7 +5745,7 @@ public final class R {
      */
     public static final int Theme_dialogTheme=58;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#dividerHorizontal}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#dividerHorizontal}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5757,7 +5757,7 @@ public final class R {
      */
     public static final int Theme_dividerHorizontal=59;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#dividerVertical}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#dividerVertical}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5769,7 +5769,7 @@ public final class R {
      */
     public static final int Theme_dividerVertical=60;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#dropDownListViewStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#dropDownListViewStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5781,7 +5781,7 @@ public final class R {
      */
     public static final int Theme_dropDownListViewStyle=61;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#dropdownListPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#dropdownListPreferredItemHeight}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5794,7 +5794,7 @@ public final class R {
      */
     public static final int Theme_dropdownListPreferredItemHeight=62;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#editTextBackground}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#editTextBackground}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5806,7 +5806,7 @@ public final class R {
      */
     public static final int Theme_editTextBackground=63;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#editTextColor}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#editTextColor}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5821,7 +5821,7 @@ public final class R {
      */
     public static final int Theme_editTextColor=64;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#editTextStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#editTextStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5833,7 +5833,7 @@ public final class R {
      */
     public static final int Theme_editTextStyle=65;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5845,7 +5845,7 @@ public final class R {
      */
     public static final int Theme_homeAsUpIndicator=66;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#imageButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#imageButtonStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5857,7 +5857,7 @@ public final class R {
      */
     public static final int Theme_imageButtonStyle=67;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#listChoiceBackgroundIndicator}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#listChoiceBackgroundIndicator}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5869,7 +5869,7 @@ public final class R {
      */
     public static final int Theme_listChoiceBackgroundIndicator=68;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#listDividerAlertDialog}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#listDividerAlertDialog}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5881,7 +5881,7 @@ public final class R {
      */
     public static final int Theme_listDividerAlertDialog=69;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5893,7 +5893,7 @@ public final class R {
      */
     public static final int Theme_listPopupWindowStyle=70;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#listPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#listPreferredItemHeight}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5906,7 +5906,7 @@ public final class R {
      */
     public static final int Theme_listPreferredItemHeight=71;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#listPreferredItemHeightLarge}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#listPreferredItemHeightLarge}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5919,7 +5919,7 @@ public final class R {
      */
     public static final int Theme_listPreferredItemHeightLarge=72;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#listPreferredItemHeightSmall}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#listPreferredItemHeightSmall}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5932,7 +5932,7 @@ public final class R {
      */
     public static final int Theme_listPreferredItemHeightSmall=73;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#listPreferredItemPaddingLeft}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#listPreferredItemPaddingLeft}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5945,7 +5945,7 @@ public final class R {
      */
     public static final int Theme_listPreferredItemPaddingLeft=74;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#listPreferredItemPaddingRight}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#listPreferredItemPaddingRight}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5958,7 +5958,7 @@ public final class R {
      */
     public static final int Theme_listPreferredItemPaddingRight=75;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#panelBackground}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#panelBackground}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5970,7 +5970,7 @@ public final class R {
      */
     public static final int Theme_panelBackground=76;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#panelMenuListTheme}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#panelMenuListTheme}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5982,7 +5982,7 @@ public final class R {
      */
     public static final int Theme_panelMenuListTheme=77;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#panelMenuListWidth}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#panelMenuListWidth}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5995,7 +5995,7 @@ public final class R {
      */
     public static final int Theme_panelMenuListWidth=78;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#popupMenuStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#popupMenuStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6007,7 +6007,7 @@ public final class R {
      */
     public static final int Theme_popupMenuStyle=79;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#popupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#popupWindowStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6019,7 +6019,7 @@ public final class R {
      */
     public static final int Theme_popupWindowStyle=80;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#radioButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#radioButtonStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6031,7 +6031,7 @@ public final class R {
      */
     public static final int Theme_radioButtonStyle=81;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#ratingBarStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#ratingBarStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6043,7 +6043,7 @@ public final class R {
      */
     public static final int Theme_ratingBarStyle=82;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#searchViewStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#searchViewStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6055,7 +6055,7 @@ public final class R {
      */
     public static final int Theme_searchViewStyle=83;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#seekBarStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#seekBarStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6067,7 +6067,7 @@ public final class R {
      */
     public static final int Theme_seekBarStyle=84;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#selectableItemBackground}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#selectableItemBackground}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6079,7 +6079,7 @@ public final class R {
      */
     public static final int Theme_selectableItemBackground=85;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#selectableItemBackgroundBorderless}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#selectableItemBackgroundBorderless}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6091,7 +6091,7 @@ public final class R {
      */
     public static final int Theme_selectableItemBackgroundBorderless=86;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#spinnerDropDownItemStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#spinnerDropDownItemStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6103,7 +6103,7 @@ public final class R {
      */
     public static final int Theme_spinnerDropDownItemStyle=87;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#spinnerStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#spinnerStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6115,7 +6115,7 @@ public final class R {
      */
     public static final int Theme_spinnerStyle=88;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#switchStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#switchStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6127,7 +6127,7 @@ public final class R {
      */
     public static final int Theme_switchStyle=89;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#textAppearanceLargePopupMenu}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#textAppearanceLargePopupMenu}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6139,7 +6139,7 @@ public final class R {
      */
     public static final int Theme_textAppearanceLargePopupMenu=90;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#textAppearanceListItem}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#textAppearanceListItem}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6151,7 +6151,7 @@ public final class R {
      */
     public static final int Theme_textAppearanceListItem=91;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#textAppearanceListItemSmall}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#textAppearanceListItemSmall}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6163,7 +6163,7 @@ public final class R {
      */
     public static final int Theme_textAppearanceListItemSmall=92;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#textAppearanceSearchResultSubtitle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#textAppearanceSearchResultSubtitle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6175,7 +6175,7 @@ public final class R {
      */
     public static final int Theme_textAppearanceSearchResultSubtitle=93;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#textAppearanceSearchResultTitle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#textAppearanceSearchResultTitle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6187,7 +6187,7 @@ public final class R {
      */
     public static final int Theme_textAppearanceSearchResultTitle=94;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#textAppearanceSmallPopupMenu}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#textAppearanceSmallPopupMenu}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6199,7 +6199,7 @@ public final class R {
      */
     public static final int Theme_textAppearanceSmallPopupMenu=95;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#textColorAlertDialogListItem}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#textColorAlertDialogListItem}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6214,7 +6214,7 @@ public final class R {
      */
     public static final int Theme_textColorAlertDialogListItem=96;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#textColorSearchUrl}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#textColorSearchUrl}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6229,7 +6229,7 @@ public final class R {
      */
     public static final int Theme_textColorSearchUrl=97;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#toolbarNavigationButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#toolbarNavigationButtonStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6241,7 +6241,7 @@ public final class R {
      */
     public static final int Theme_toolbarNavigationButtonStyle=98;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#toolbarStyle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#toolbarStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6253,7 +6253,7 @@ public final class R {
      */
     public static final int Theme_toolbarStyle=99;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#windowActionBar}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#windowActionBar}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -6263,7 +6263,7 @@ public final class R {
      */
     public static final int Theme_windowActionBar=100;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#windowActionBarOverlay}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#windowActionBarOverlay}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -6273,7 +6273,7 @@ public final class R {
      */
     public static final int Theme_windowActionBarOverlay=101;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#windowActionModeOverlay}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#windowActionModeOverlay}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -6283,7 +6283,7 @@ public final class R {
      */
     public static final int Theme_windowActionModeOverlay=102;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#windowFixedHeightMajor}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#windowFixedHeightMajor}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6300,7 +6300,7 @@ public final class R {
      */
     public static final int Theme_windowFixedHeightMajor=103;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#windowFixedHeightMinor}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#windowFixedHeightMinor}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6317,7 +6317,7 @@ public final class R {
      */
     public static final int Theme_windowFixedHeightMinor=104;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#windowFixedWidthMajor}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#windowFixedWidthMajor}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6334,7 +6334,7 @@ public final class R {
      */
     public static final int Theme_windowFixedWidthMajor=105;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#windowFixedWidthMinor}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#windowFixedWidthMinor}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6351,7 +6351,7 @@ public final class R {
      */
     public static final int Theme_windowFixedWidthMinor=106;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#windowMinWidthMajor}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#windowMinWidthMajor}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6368,7 +6368,7 @@ public final class R {
      */
     public static final int Theme_windowMinWidthMajor=107;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#windowMinWidthMinor}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#windowMinWidthMinor}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6385,7 +6385,7 @@ public final class R {
      */
     public static final int Theme_windowMinWidthMinor=108;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#windowNoTitle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#windowNoTitle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -6505,7 +6505,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#collapseContentDescription}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#collapseContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -6515,7 +6515,7 @@ public final class R {
      */
     public static final int Toolbar_collapseContentDescription=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#collapseIcon}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#collapseIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6527,7 +6527,7 @@ public final class R {
      */
     public static final int Toolbar_collapseIcon=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6540,7 +6540,7 @@ public final class R {
      */
     public static final int Toolbar_contentInsetEnd=4;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6553,7 +6553,7 @@ public final class R {
      */
     public static final int Toolbar_contentInsetLeft=5;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6566,7 +6566,7 @@ public final class R {
      */
     public static final int Toolbar_contentInsetRight=6;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6579,7 +6579,7 @@ public final class R {
      */
     public static final int Toolbar_contentInsetStart=7;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#logo}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6591,7 +6591,7 @@ public final class R {
      */
     public static final int Toolbar_logo=8;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#logoDescription}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#logoDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -6601,7 +6601,7 @@ public final class R {
      */
     public static final int Toolbar_logoDescription=9;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6614,7 +6614,7 @@ public final class R {
      */
     public static final int Toolbar_maxButtonHeight=10;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#navigationContentDescription}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#navigationContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -6624,7 +6624,7 @@ public final class R {
      */
     public static final int Toolbar_navigationContentDescription=11;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#navigationIcon}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#navigationIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6636,7 +6636,7 @@ public final class R {
      */
     public static final int Toolbar_navigationIcon=12;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6648,7 +6648,7 @@ public final class R {
      */
     public static final int Toolbar_popupTheme=13;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#subtitle}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -6658,7 +6658,7 @@ public final class R {
      */
     public static final int Toolbar_subtitle=14;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6670,7 +6670,7 @@ public final class R {
      */
     public static final int Toolbar_subtitleTextAppearance=15;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#subtitleTextColor}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#subtitleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -6681,7 +6681,7 @@ public final class R {
      */
     public static final int Toolbar_subtitleTextColor=16;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -6691,7 +6691,7 @@ public final class R {
      */
     public static final int Toolbar_title=17;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#titleMarginBottom}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#titleMarginBottom}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6704,7 +6704,7 @@ public final class R {
      */
     public static final int Toolbar_titleMarginBottom=18;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#titleMarginEnd}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#titleMarginEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6717,7 +6717,7 @@ public final class R {
      */
     public static final int Toolbar_titleMarginEnd=19;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#titleMarginStart}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#titleMarginStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6730,7 +6730,7 @@ public final class R {
      */
     public static final int Toolbar_titleMarginStart=20;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#titleMarginTop}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#titleMarginTop}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6743,7 +6743,7 @@ public final class R {
      */
     public static final int Toolbar_titleMarginTop=21;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#titleMargins}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#titleMargins}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6756,7 +6756,7 @@ public final class R {
      */
     public static final int Toolbar_titleMargins=22;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6768,7 +6768,7 @@ public final class R {
      */
     public static final int Toolbar_titleTextAppearance=23;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#titleTextColor}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#titleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -6835,7 +6835,7 @@ public final class R {
      */
     public static final int ViewBackgroundHelper_android_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -6846,7 +6846,7 @@ public final class R {
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#backgroundTintMode}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -6942,7 +6942,7 @@ public final class R {
      */
     public static final int View_android_theme=0;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#paddingEnd}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#paddingEnd}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6955,7 +6955,7 @@ public final class R {
      */
     public static final int View_paddingEnd=2;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#paddingStart}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#paddingStart}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6968,7 +6968,7 @@ public final class R {
      */
     public static final int View_paddingStart=3;
     /**
-     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc2.R.attr#theme}
+     * <p>This symbol is the offset where the {@link com.example.android.SimpleCalc.R.attr#theme}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a reference to another resource, in the form
