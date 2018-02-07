@@ -1,0 +1,4 @@
+#Wed Feb 07 13:34:52 ICT 2018
+base.0=E\:\\Project\\Pengembangan-Aplikasi-Bergerak\\SimpleCalc\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
