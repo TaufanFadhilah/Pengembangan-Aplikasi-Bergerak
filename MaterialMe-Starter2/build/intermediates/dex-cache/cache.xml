@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Project\Pengembangan-Aplikasi-Bergerak\MaterialMe-Starter2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="1a8b760ef0dc846d65c2e85284715bb0c70e8766">
+        <dex dex="E:\Project\Pengembangan-Aplikasi-Bergerak\MaterialMe-Starter2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2f78c40345dde96f35d2ea7b6ce28871726f2f23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Project\Pengembangan-Aplikasi-Bergerak\MaterialMe-Starter2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="E:\Project\Pengembangan-Aplikasi-Bergerak\MaterialMe-Starter2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d6fe86549a4895e76f8661859686cef4b5000054\classes.dex" />
+    </item>
+
+</items>
