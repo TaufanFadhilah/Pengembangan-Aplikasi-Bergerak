@@ -1,0 +1,4 @@
+#Thu Mar 22 21:37:03 ICT 2018
+base.0=E\:\\Project\\Pengembangan-Aplikasi-Bergerak\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex
